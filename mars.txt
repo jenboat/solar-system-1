@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Cold and dry, but everything is my favourite colour. 
-Mars is a red planet, I have red many sicfi books
+
+Cold and dry, but everything is my favourite colour.
+Mars is a red planet, I have read many scifi books about.
+ is a third line and I am running out of info about mars.
+>>>>>>> 03f4ee39828adca5033ac54b9e3b7b57447d9365
